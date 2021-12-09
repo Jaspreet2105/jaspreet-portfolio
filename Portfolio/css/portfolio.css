@@ -1,0 +1,308 @@
+/*Created By @Jaspreet */
+
+
+html {
+  scroll-behavior: smooth;
+ 
+}
+
+body{
+	
+	/* background-color: #F3F3F3; */
+	background-color: #FFFFFF;
+	background-color: #FFFFF0;
+	
+
+}
+
+.card{
+	
+	/* margin-bottom: 20px; */
+	margin: 3rem;
+	background-color: #FFFFF0;
+	/* border-color:  #C4324E; */
+}
+
+section{
+	
+	
+	min-height: 100vh; 
+	/* text-align: center; */
+	margin-top: 5%;
+	
+	
+	
+}
+
+
+span{
+	
+	color:#FFFFFF;
+	text-transform: uppercase;
+	/* font-family: Lucida Handwriting; */
+}
+
+.navbar {
+  min-height: 130px;
+  text-align: center;
+  /* border: 2px; */
+  border-radius: 15px;
+  
+}
+
+
+
+
+nav{
+	
+	background-color: #D85678;
+	
+	
+	/* font-family: Brush Script MT, Brush Script Std, cursive; */
+	/* font-family: Snell Roundhand, cursive; */
+	/* font-family: Lucida Handwriting,Snell Roundhand, cursive;  */
+	/* font-family: 'Sacramento', cursive ; */
+	   font-family: Georgia, serif;
+	    font-style: oblique;  
+	
+	
+}
+
+
+  
+.navbar li a{
+	 
+	 color: white !important;
+	 font-size: 18px;
+	 
+}
+
+
+
+.nav-item a:hover {
+    color: #D4AF37 !important;
+	color: #C4324E !important;
+	color: #FFFFF0 !important;
+	color: #F7BD01 !important;
+    cursor: pointer;
+}
+
+ footer{ 
+	
+	 /* background-color: #1C205B;  */
+	 /* background-color: rgba(28,32,91, 0.9); */
+	 background-color: #D85678;
+	 height: 130px; 
+	 text-align:center; 
+	 padding: 40px;
+	 /* line-height: 120px; */
+	 /* font-family: Lucida Handwriting,Snell Roundhand, cursive;  */
+	 /* font-family: 'Sacramento', cursive ; */
+	 font-family: Georgia, serif; 
+	 font-style: oblique;
+	 border-radius: 15px;
+	 
+	/* position: absolute; */
+	/* bottom: 0; */
+	/* width: 100%; */
+} 
+
+footer a:hover {
+     
+	 color: #F7BD01;
+	 cursor: pointer;
+}
+
+footer a{
+	
+	text-decoration:none;
+	color: white;
+	padding: 10px;
+	
+}
+
+
+
+
+.blockquote{
+	
+	 color: #D85678; 
+	 color: #C4324E;
+	
+}
+
+.blockquote-footer{
+	
+	height:0;
+	padding:0;
+	/* margin:0px; */
+	border-radius: 0;
+	color: #C4324E;
+	
+	
+}
+
+.btn-primary{
+	
+	background-color:#C4324E;
+	background-color: #E36B89;
+	color: #fff; 
+	border-color: #FFFFFF;
+	 
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active{
+	
+	
+		background-color: #E36B89;
+		background-color:#C4324E;
+	
+	color: #fff; 
+	border-color: #FFFFFF;
+    /* background-color: #00b3db; */
+    /* border-color: #285e8e; /*set the color you want here*/  
+	
+	
+	
+}
+
+
+
+
+
+.fa-award{
+	
+	/* color: #4e517f; */
+	/* color: #4e517f; */
+	color: #F7BD01;
+	/* opacity: .25; */
+	
+}
+
+
+.Site {
+ 
+}
+
+.Site-content {
+  /* flex: 1; */
+   /* padding:25px;  */
+}
+
+img{
+	
+	
+}
+
+h1{
+	/* font-family: Lucida Handwriting,Snell Roundhand, cursive;  */
+	/* font-variant:small-caps; */
+	
+	   
+	   
+	   font-family: Freight Sans;
+	   font-family: Lucida Handwriting;
+	   color: #C4324E;
+	  
+	
+}
+
+h2{
+	
+	
+	/* font-family: Lucida Handwriting,Snell Roundhand, cursive;  */
+	/* font-variant:small-caps; */
+	 font-family: Freight Sans;
+	 /* color:#C4324E; */
+}
+
+h3, h4, h5{
+	
+	font-family: Freight Sans;
+	font-weight: bold; 
+	/* color: #C4324E; */
+	/* font-size:medium;  */
+	/* font-style: oblique; */
+	
+	
+	
+}
+
+
+p{
+	
+	
+	text-align: justify;
+	
+	    font-family: Georgia, serif; 
+		
+		/* font-family: Freight Sans; */
+	
+}
+summary{
+	
+	
+	font-style: oblique; 
+	font-weight: bold; 
+	font-size:medium; 
+	font-family: Georgia, serif; 
+	
+	
+}
+
+i{
+	
+	padding: 6px;
+}
+
+.skillsul{
+	
+	/* list-display: none; */
+	list-style: none;
+	font-family:Georgia, serif;
+	/* line-height: 150%; */
+	/* font-size: small; */
+	text-align: justify;
+}
+
+hr{
+	border: 1px solid #C4324E;
+	/* width: 100vw; */
+	/* color: rgba(28,32,91, 0.9); */
+}
+
+.Certifications{
+	
+	margin: 2%;
+	padding: 3px;
+}
+
+.card-header{
+	
+	text-align:center; 
+	font-style: oblique; 
+	font-weight: bold;
+	font-family: Freight Sans; 
+	background-color: #D85678;
+	color: #ffffff;
+	background-color: #C4324E;
+	background-color: #E36B89;
+	
+	
+}
+
+.card-footer{
+	
+	text-align:center; 
+	font-family: Freight Sans;
+	font-weight: bold;
+	font-style: oblique; 
+	color: #ffffff;
+	
+	background-color: #D85678;
+	background-color: #C4324E;
+	background-color: #E36B89;
+	
+	
+	
+}
